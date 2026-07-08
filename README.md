@@ -88,8 +88,3 @@ Comparison with Original Image
 
 ---
 
-
-
-## 📜 License
-
-This project is intended for educational and learning purposes.
